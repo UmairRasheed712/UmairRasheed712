@@ -1,16 +1,67 @@
-## Hi there 👋
+# 👋 Hi, I'm Umair Rasheed  
 
-<!--
-**UmairRasheed712/UmairRasheed712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate **Computer Science student** and aspiring **DevSecOps Engineer**  
+💻 Skilled in **Native iOS Development**, **Cross-Platform Apps (React Native)**, and **Cyber Security**  
+🔐 Currently diving deep into **Web Privacy & Cookie Classification using Deep Learning**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack  
+
+**Mobile Development**  
+- 📱 Swift (UIKit, SwiftUI), Xcode, Firebase  
+- ⚛️ React Native, Expo, Supabase  
+
+**Cyber Security & Privacy**  
+- 🔒 Web Privacy Research (Cookies, Tracking, Fingerprinting)  
+- 🧪 Cookie Classification using ML/DL (FT-Transformers, XGBoost, CookieBlock/CookieGraph inspired)  
+
+**Other Tools**  
+- 🐍 Python, Pandas, Scikit-Learn  
+- ☁️ Docker, Git/GitHub, VS Code  
+- 🖥️ SQL Server, Java, C++, Assembly  
+
+---
+
+## 📂 Featured Project – Web Cookie Classifier 🍪🤖  
+
+> A research-backed Chrome extension + ML pipeline to classify cookies into categories:  
+> - Strictly Necessary  
+> - Functional  
+> - Analytics/Performance  
+> - Advertising/Tracking  
+
+🔎 Uses **Deep Learning (FT-Transformers)** & hybrid labeling strategy (blocklists + behavior analysis).  
+📊 Dataset built via **Tranco domain crawling** & **synthetic data generation**.  
+🔐 Goal: Help users manage cookies with **clear privacy scoring** and **transparent reporting**.  
+
+---
+
+## 🌟 Highlights  
+
+- ✅ Developed multiple **iOS apps** (including a Pomodoro Planner & UI-rich prototypes).  
+- ✅ Built a **React Native KFC Pakistan clone app** with real-world UI/UX.  
+- ✅ Conducted **web privacy research** on cookies & trackers, aiming for publishable academic results.  
+- ✅ Hands-on with **DevOps & Cyber Security tools**.  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=umairrasheed&show_icons=true&theme=radical" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umairrasheed&layout=compact&theme=radical" height="165">
+</p>
+
+---
+
+## 🤝 Connect with Me  
+
+- 🌐 [Portfolio Website](#) *(add when ready)*  
+- 💼 [LinkedIn](#)  
+- 🐦 [Twitter/X](#)  
+- 📧 umair.rasheed@example.com  
+
+---
+
+⭐️ *“Code. Break. Fix. Repeat. That’s how progress happens.”*
