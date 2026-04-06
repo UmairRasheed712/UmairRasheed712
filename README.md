@@ -43,21 +43,14 @@
 
 ---
 
-## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umairrasheed&show_icons=true&theme=radical" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umairrasheed&layout=compact&theme=radical" height="165">
-</p>
-
----
 
 ## 🤝 Connect with Me  
 
-- 🌐 [Portfolio Website](#) *(add when ready)*  
-- 💼 [LinkedIn](#)  
-- 🐦 [Twitter/X](#)  
-- 📧 umair.rasheed@example.com  
+ 
+- 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-umair-rasheed-493061324/)  
+ 
+- 📧 umairrasheed0332@gmail.com  
 
 ---
 
