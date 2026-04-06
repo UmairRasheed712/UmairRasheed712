@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Umair Rasheed  
 
 🚀 Passionate **Computer Science student** and aspiring **DevSecOps Engineer**  
-💻 Skilled in **Native iOS Development**, **Cross-Platform Apps (React Native)**, and **Cyber Security**  
+💻 Skilled in **Native iOS Development**, **Cross-Platform Apps (React Native)**, and **Machine Learning**  
 🔐 Currently diving deep into **Web Privacy & Cookie Classification using Deep Learning**  
 
 ---
@@ -12,12 +12,9 @@
 - 📱 Swift (UIKit, SwiftUI), Xcode, Firebase  
 - ⚛️ React Native, Expo, Supabase  
 
-**Cyber Security & Privacy**  
-- 🔒 Web Privacy Research (Cookies, Tracking, Fingerprinting)  
-- 🧪 Cookie Classification using ML/DL (FT-Transformers, XGBoost, CookieBlock/CookieGraph inspired)  
 
-**Other Tools**  
-- 🐍 Python, Pandas, Scikit-Learn  
+**Machine Learning**  
+- 🐍 Python, Pandas, Scikit-Learn, NumPy, TensorFlow  
 - ☁️ Docker, Git/GitHub, VS Code  
 - 🖥️ SQL Server, Java, C++, Assembly  
 
@@ -31,7 +28,7 @@
 > - Analytics/Performance  
 > - Advertising/Tracking  
 
-🔎 Uses **Deep Learning (FT-Transformers)** & hybrid labeling strategy (blocklists + behavior analysis).  
+🔎 Uses **Deep Learning (Bi-LSTM)** & hybrid labeling strategy (blocklists + behavior analysis).  
 📊 Dataset built via **Tranco domain crawling** & **synthetic data generation**.  
 🔐 Goal: Help users manage cookies with **clear privacy scoring** and **transparent reporting**.  
 
@@ -42,7 +39,7 @@
 - ✅ Developed multiple **iOS apps** (including a Pomodoro Planner & UI-rich prototypes).  
 - ✅ Built a **React Native KFC Pakistan clone app** with real-world UI/UX.  
 - ✅ Conducted **web privacy research** on cookies & trackers, aiming for publishable academic results.  
-- ✅ Hands-on with **DevOps & Cyber Security tools**.  
+- ✅ Hands-on with **DevOps tools**.  
 
 ---
 
