@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Umair Rasheed  
 
-🚀 Passionate **Computer Science student** and aspiring **DevSecOps Engineer**  
+🚀 Passionate **Computer Science student** and **AI/ML Engineer**  
 💻 Skilled in **Native iOS Development**, **Cross-Platform Apps (React Native)**, and **Machine Learning**  
-🔐 Currently diving deep into **Web Privacy & Cookie Classification using Deep Learning**  
+🔐 Currently diving deep into **Complex and Advanced Architectures of Machine Learning**  
 
 ---
 
@@ -14,13 +14,13 @@
 
 
 **Machine Learning**  
-- 🐍 Python, Pandas, Scikit-Learn, NumPy, TensorFlow  
-- ☁️ Docker, Git/GitHub, VS Code  
-- 🖥️ SQL Server, Java, C++, Assembly  
+- 🐍 Python, Pandas, Scikit-Learn, NumPy, TensorFlow,   
+- ☁️ Docker, Git/GitHub, VS Code, Kaggle  
+- 🖥️ SQL Server 
 
 ---
 
-## 📂 Featured Project – Web Cookie Classifier 🍪🤖  
+## 📂 Featured Project – Web Cookie Classifier and Privacy protection tool🍪🤖  
 
 > A research-backed Chrome extension + ML pipeline to classify cookies into categories:  
 > - Strictly Necessary  
@@ -28,7 +28,7 @@
 > - Analytics/Performance  
 > - Advertising/Tracking  
 
-🔎 Uses **Deep Learning (Bi-LSTM)** & hybrid labeling strategy (blocklists + behavior analysis).  
+🔎 Uses **Deep Learning (TabNet)** & hybrid labeling strategy (blocklists + behavior analysis + name analysis).  
 📊 Dataset built via **Tranco domain crawling** & **synthetic data generation**.  
 🔐 Goal: Help users manage cookies with **clear privacy scoring** and **transparent reporting**.  
 
@@ -37,7 +37,7 @@
 ## 🌟 Highlights  
 
 - ✅ Developed multiple **iOS apps** (including a Pomodoro Planner & UI-rich prototypes).  
-- ✅ Built a **React Native KFC Pakistan clone app** with real-world UI/UX.  
+- ✅ Built a **React Native KFC clone app** with real-world UI/UX.  
 - ✅ Conducted **web privacy research** on cookies & trackers, aiming for publishable academic results.  
 - ✅ Hands-on with **DevOps tools**.  
 
